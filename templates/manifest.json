@@ -1,0 +1,33 @@
+[
+  {
+    "id": "purple_ribbon_love",
+    "title": "Purple Ribbon Love",
+    "tag": "Romantic",
+    "iconEmoji": "🎀",
+    "imageFileName": "tmpl_purple_ribbon_love.png",
+    "photoSlots": [
+      {
+        "slotIndex": 0,
+        "shape": "rounded",
+        "xRatio": 0.5092,
+        "yRatio": 0.0839,
+        "widthRatio": 0.4658,
+        "heightRatio": 0.8699
+      }
+    ],
+    "textSlots": [
+      {
+        "slotIndex": 0,
+        "shape": "rounded",
+        "xRatio": 0.0303,
+        "yRatio": 0.2631,
+        "widthRatio": 0.4605,
+        "heightRatio": 0.5658,
+        "defaultText": "Add text here",
+        "textColorHex": "#FFFFFF",
+        "fontStyle": "DYNAPUFF"
+      }
+    ],
+    "remoteImageUrl": "https://raw.githubusercontent.com/akshaykhillare69-arch/WidgetApp/main/templates/images/tmpl_purple_ribbon_love.png"
+  }
+]
