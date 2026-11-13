@@ -9,24 +9,16 @@
       {
         "slotIndex": 0,
         "shape": "rounded",
-        "xRatio": 0.1697,
-        "yRatio": 0.1243,
-        "widthRatio": 0.2987,
-        "heightRatio": 0.6219
+        "xRatio": 0.1671,
+        "yRatio": 0.1314,
+        "widthRatio": 0.3,
+        "heightRatio": 0.6172
       },
       {
         "slotIndex": 1,
         "shape": "rounded",
-        "xRatio": 0.2974,
-        "yRatio": 0.1973,
-        "widthRatio": 0.01,
-        "heightRatio": 0.01
-      },
-      {
-        "slotIndex": 2,
-        "shape": "rounded",
-        "xRatio": 0.4947,
-        "yRatio": 0.3952,
+        "xRatio": 0.3316,
+        "yRatio": 0.1879,
         "widthRatio": 0.01,
         "heightRatio": 0.01
       }
@@ -35,10 +27,10 @@
       {
         "slotIndex": 0,
         "shape": "rounded",
-        "xRatio": 0.5,
-        "yRatio": 0.0701,
-        "widthRatio": 0.4803,
-        "heightRatio": 0.3887,
+        "xRatio": 0.4855,
+        "yRatio": 0.0607,
+        "widthRatio": 0.3737,
+        "heightRatio": 0.4099,
         "defaultText": "Add text here",
         "textColorHex": "#FFFFFF",
         "fontStyle": "DYNAPUFF"
