@@ -1,33 +1,95 @@
 [
-  {
-    "id": "purple_ribbon_love",
-    "title": "Purple Ribbon Love",
-    "tag": "Romantic",
-    "iconEmoji": "🎀",
-    "imageFileName": "tmpl_purple_ribbon_love.png",
-    "photoSlots": [
-      {
-        "slotIndex": 0,
-        "shape": "rounded",
-        "xRatio": 0.5092,
-        "yRatio": 0.0839,
-        "widthRatio": 0.4658,
-        "heightRatio": 0.8699
-      }
-    ],
-    "textSlots": [
-      {
-        "slotIndex": 0,
-        "shape": "rounded",
-        "xRatio": 0.0303,
-        "yRatio": 0.2631,
-        "widthRatio": 0.4605,
-        "heightRatio": 0.5658,
-        "defaultText": "Add text here",
-        "textColorHex": "#FFFFFF",
-        "fontStyle": "DYNAPUFF"
-      }
-    ],
-    "remoteImageUrl": "https://raw.githubusercontent.com/akshaykhillare69-arch/WidgetApp/main/templates/images/tmpl_purple_ribbon_love.png"
-  }
+    {
+        "textSlots":  [
+                          {
+                              "yRatio":  0.22,
+                              "shape":  "rounded",
+                              "slotIndex":  0,
+                              "defaultText":  "Good Morning ❤️",
+                              "widthRatio":  0.44,
+                              "fontStyle":  "DYNAPUFF",
+                              "textColorHex":  "#FFFFFF",
+                              "xRatio":  0.52,
+                              "heightRatio":  0.58
+                          }
+                      ],
+        "remoteImageUrl":  "https://raw.githubusercontent.com/akshaykhillare69-arch/WidgetApp/main/templates/images/tmpl_good_morning.png",
+        "title":  "Good Morning",
+        "id":  "good_morning",
+        "imageFileName":  "tmpl_good_morning.png",
+        "iconEmoji":  "☀️",
+        "photoSlots":  [
+                           {
+                               "shape":  "rounded",
+                               "xRatio":  0.125,
+                               "heightRatio":  0.7,
+                               "widthRatio":  0.355,
+                               "yRatio":  0.185,
+                               "slotIndex":  0
+                           }
+                       ],
+        "tag":  "Daily Love"
+    },
+    {
+        "textSlots":  [
+                          {
+                              "yRatio":  0.25,
+                              "shape":  "rounded",
+                              "slotIndex":  0,
+                              "defaultText":  "Miss You Always 💕",
+                              "widthRatio":  0.41,
+                              "fontStyle":  "DYNAPUFF",
+                              "textColorHex":  "#FFFFFF",
+                              "xRatio":  0.55,
+                              "heightRatio":  0.55
+                          }
+                      ],
+        "remoteImageUrl":  "https://raw.githubusercontent.com/akshaykhillare69-arch/WidgetApp/main/templates/images/tmpl_miss_you_heart.png",
+        "title":  "Miss You",
+        "id":  "miss_you_heart",
+        "imageFileName":  "tmpl_miss_you_heart.png",
+        "iconEmoji":  "💖",
+        "photoSlots":  [
+                           {
+                               "shape":  "heart",
+                               "xRatio":  0.04,
+                               "heightRatio":  0.77,
+                               "widthRatio":  0.49,
+                               "yRatio":  0.095,
+                               "slotIndex":  0
+                           }
+                       ],
+        "tag":  "Romantic"
+    },
+    {
+        "id":  "purple_ribbon_love",
+        "title":  "Purple Ribbon Love",
+        "tag":  "Romantic",
+        "iconEmoji":  "🎀",
+        "imageFileName":  "tmpl_purple_ribbon_love.png",
+        "photoSlots":  [
+                           {
+                               "slotIndex":  0,
+                               "shape":  "rounded",
+                               "xRatio":  0.5092,
+                               "yRatio":  0.0839,
+                               "widthRatio":  0.4658,
+                               "heightRatio":  0.8699
+                           }
+                       ],
+        "textSlots":  [
+                          {
+                              "slotIndex":  0,
+                              "shape":  "rounded",
+                              "xRatio":  0.0303,
+                              "yRatio":  0.2631,
+                              "widthRatio":  0.4605,
+                              "heightRatio":  0.5658,
+                              "defaultText":  "Add text here",
+                              "textColorHex":  "#FFFFFF",
+                              "fontStyle":  "DYNAPUFF"
+                          }
+                      ],
+        "remoteImageUrl":  "https://raw.githubusercontent.com/akshaykhillare69-arch/WidgetApp/main/templates/images/tmpl_purple_ribbon_love.png"
+    }
 ]
