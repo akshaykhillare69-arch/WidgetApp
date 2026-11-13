@@ -1,0 +1,31 @@
+{
+    "textSlots":  [
+                      {
+                          "yRatio":  0.25,
+                          "shape":  "rounded",
+                          "slotIndex":  0,
+                          "defaultText":  "Miss You Always 💕",
+                          "widthRatio":  0.41,
+                          "fontStyle":  "DYNAPUFF",
+                          "textColorHex":  "#FFFFFF",
+                          "xRatio":  0.55,
+                          "heightRatio":  0.55
+                      }
+                  ],
+    "remoteImageUrl":  "https://raw.githubusercontent.com/akshaykhillare69-arch/WidgetApp/main/templates/images/tmpl_miss_you_heart.png",
+    "title":  "Miss You",
+    "id":  "miss_you_heart",
+    "imageFileName":  "tmpl_miss_you_heart.png",
+    "iconEmoji":  "💖",
+    "photoSlots":  [
+                       {
+                           "shape":  "heart",
+                           "xRatio":  0.04,
+                           "heightRatio":  0.77,
+                           "widthRatio":  0.49,
+                           "yRatio":  0.095,
+                           "slotIndex":  0
+                       }
+                   ],
+    "tag":  "Romantic"
+}
