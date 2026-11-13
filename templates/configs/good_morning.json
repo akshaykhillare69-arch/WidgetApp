@@ -1,16 +1,6 @@
 {
     "textSlots":  [
-                      {
-                          "yRatio":  0.22,
-                          "shape":  "rounded",
-                          "slotIndex":  0,
-                          "defaultText":  "Good Morning ❤️",
-                          "widthRatio":  0.44,
-                          "fontStyle":  "DYNAPUFF",
-                          "textColorHex":  "#FFFFFF",
-                          "xRatio":  0.52,
-                          "heightRatio":  0.58
-                      }
+
                   ],
     "remoteImageUrl":  "https://raw.githubusercontent.com/akshaykhillare69-arch/WidgetApp/main/templates/images/tmpl_good_morning.png",
     "title":  "Good Morning",
