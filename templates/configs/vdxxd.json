@@ -1,0 +1,31 @@
+{
+  "id": "vdxxd",
+  "title": "vdxxd",
+  "tag": "Romantic",
+  "iconEmoji": "🎀",
+  "imageFileName": "tmpl_vdxxd.png",
+  "photoSlots": [
+    {
+      "slotIndex": 0,
+      "shape": "rounded",
+      "xRatio": 0.1645,
+      "yRatio": 0.129,
+      "widthRatio": 0.3079,
+      "heightRatio": 0.6266
+    }
+  ],
+  "textSlots": [
+    {
+      "slotIndex": 0,
+      "shape": "rounded",
+      "xRatio": 0.4711,
+      "yRatio": 0.0725,
+      "widthRatio": 0.4461,
+      "heightRatio": 0.3981,
+      "defaultText": "Add text here",
+      "textColorHex": "#FFFFFF",
+      "fontStyle": "DYNAPUFF"
+    }
+  ],
+  "remoteImageUrl": "https://raw.githubusercontent.com/akshaykhillare69-arch/WidgetApp/main/templates/images/tmpl_vdxxd.png"
+}
