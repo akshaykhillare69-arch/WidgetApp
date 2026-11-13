@@ -8,20 +8,36 @@
     {
       "slotIndex": 0,
       "shape": "rounded",
-      "xRatio": 0.5092,
-      "yRatio": 0.0839,
-      "widthRatio": 0.4658,
-      "heightRatio": 0.8699
+      "xRatio": 0.1697,
+      "yRatio": 0.1243,
+      "widthRatio": 0.2987,
+      "heightRatio": 0.6219
+    },
+    {
+      "slotIndex": 1,
+      "shape": "rounded",
+      "xRatio": 0.2974,
+      "yRatio": 0.1973,
+      "widthRatio": 0.01,
+      "heightRatio": 0.01
+    },
+    {
+      "slotIndex": 2,
+      "shape": "rounded",
+      "xRatio": 0.4947,
+      "yRatio": 0.3952,
+      "widthRatio": 0.01,
+      "heightRatio": 0.01
     }
   ],
   "textSlots": [
     {
       "slotIndex": 0,
       "shape": "rounded",
-      "xRatio": 0.0303,
-      "yRatio": 0.2631,
-      "widthRatio": 0.4605,
-      "heightRatio": 0.5658,
+      "xRatio": 0.5,
+      "yRatio": 0.0701,
+      "widthRatio": 0.4803,
+      "heightRatio": 0.3887,
       "defaultText": "Add text here",
       "textColorHex": "#FFFFFF",
       "fontStyle": "DYNAPUFF"
